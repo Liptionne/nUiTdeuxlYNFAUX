@@ -1,6 +1,6 @@
 # nUiTdeuxlYNFAUX
 
-#Bienvenue sur notre super site de la NUIT DE L4INFO
+# Bienvenue sur notre super site de la NUIT DE L4INFO
 
 On a beaucoup travailé pour ça (non)
 
@@ -22,7 +22,7 @@ Ma boisson préférée : les larmes de mes ennemis
 
 Quen pensez vous de Pierre Gasly (le GOAT) chez Alpine ?
 
-Le réchauffement climatique, ##pour ou ##contre ?
+Le réchauffement climatique, ## pour ou ## contre ?
 
 
 Assez parlez de vous, parlons de moi (à la bonne heure !), je pense faire plaisir aux petits (pas trop non plus) et aux grands avec ce site de vente et d'information, et j'espère qu'il vous plaira.
