@@ -1,6 +1,12 @@
 # nUiTdeuxlYNFAUX
 
-# Bienvenue sur notre super site de la NUIT DE L4INFO
+# Bienvenue sur notre super site de la NUIT DE L'INFO
+
+Ce site répond à un défi de la nuit de l'info (évènement national autour de l'informatique https://www.nuitdelinfo.com/
+
+Le défi : https://www.nuitdelinfo.com/inscription/defis/331
+
+# LE README :
 
 On a beaucoup travailé pour ça (non)
 
