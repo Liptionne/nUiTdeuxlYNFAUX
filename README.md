@@ -2,9 +2,11 @@
 
 # Bienvenue sur notre super site de la NUIT DE L'INFO
 
-Ce site répond à un défi de la nuit de l'info (évènement national autour de l'informatique https://www.nuitdelinfo.com/
+Ce site répond à un défi de la nuit de l'info (évènement national autour de l'informatique https://www.nuitdelinfo.com/)
 
 Le défi : https://www.nuitdelinfo.com/inscription/defis/331
+
+Notre rendu : https://jovial-chimera-db13c6.netlify.app//
 
 # LE README :
 
